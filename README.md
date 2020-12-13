@@ -5,7 +5,8 @@ This class uses the CSVreader below.
 https://github.com/tikonen/blog/tree/master/csvreader
 
 # Usage
-
+https://blog.naver.com/ssootube/222172628090
+한글 사용 설명서는 위 주소에서 참고 하세요.
 Place the csv file you want to parse under Assets/Resources and use this where you want to retrieve the text as follows:
 
 
