@@ -56,4 +56,9 @@ public class Table
         return "";
         
     }
+    
+    public void change_lan(string lan)
+    {
+        language = lan;
+    }
 }
